@@ -19,4 +19,4 @@ Below is an overview of graduate-level courses I've completed at The Cooper Unio
 
 <br>
 
-> *Courses marked with an asterisk (**\***) are additional graduate-level electives beyond those directly applied toward my Master's of Engineering.
+> ***Note:** Courses marked with an asterisk (\*) are additional graduate-level electives beyond those directly applied toward my Master's of Engineering.*

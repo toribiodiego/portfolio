@@ -1,7 +1,7 @@
 
 ## Projects
 
-Below is a table showcasing a selection of original projects developed as final course initiatives or independent explorations. These projects represent original ideas and culminations of coursework, illustrating a blend of technical skill and innovative thinking. 
+The table below highlights a range of projects that were developed either as final course projects or through independent exploration. Each project is an original idea that represents the culmination of coursework and hands-on experimentation.
 <br>
 
 | Course                           | Project Title                                                            | Repo Link         |
@@ -19,4 +19,4 @@ Below is a table showcasing a selection of original projects developed as final 
 
 <br>
 
-> *Projects marked with an asterisk (*) are ongoing, highlighting current efforts to expand and refine these endeavors.
+> ***Note:** Projects marked with an asterisk (\*) are ongoing.*
