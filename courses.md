@@ -15,7 +15,7 @@ Below is an overview of graduate-level courses I've completed at The Cooper Unio
 | Remote Sensing                            | Krishna Karra  | Spring 2025  | [ECE-471-A](https://github.com/toribiodiego/ECE-471-A-Remote-Sensing) |
 | Generative Machine Learning               | Sam Keene      | Spring 2025  | [ECE-471-B](https://github.com/toribiodiego/ECE-471-Generative-Machine-Learning) |
 | IS: Cloud Computing **\***                | Rob Morano     | Spring 2025  | [ECE-465-IS](#) |
-| IS: Experimentation with PyTorch **\***   | Sam Keene      | Spring 2025  | [ECE-491-2-IS](#) |
+| IS: Experimentation with PyTorch **\***   | Carl Sable     | Spring 2025  | [ECE-491-2-IS](#) |
 
 <br>
 
