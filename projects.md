@@ -1,14 +1,22 @@
 
-## Projects - Past and Current
+## Projects
 
-### Current
-- **Cloud Computing**: *Scalable Reinforcement Learning: Distributed Training & Cloud Deployment*
-- **VIP BioEngineering**: *Multimodal Alzheimer's Disease Classification from Speech and Text*
-- **Senior Projects**: *Quantized Facial Identification on Edge Devices: Bias and Performance Trade-offs*
-- **Remote Sensing**: tbd
-- **Experimentation With PyTorch**: tbd  
-- **Generative Machine Learning**: tbd
+Below is a table showcasing a selection of original projects developed as final course initiatives or independent explorations. These projects represent original ideas and culminations of coursework, illustrating a blend of technical skill and innovative thinking. 
+<br>
+
+| Course                           | Project Title                                                            | Repo Link         |
+|----------------------------------|--------------------------------------------------------------------------|-------------------|
+| **Cloud Computing**              | *Scalable Reinforcement Learning: Distributed Training & Cloud Deployment* **\*** | [Repo TBD](#)     |
+| **VIP BioEngineering**           | *Multimodal Alzheimer's Disease Classification from Speech and Text* **\***      | [Repo TBD](#)     |
+| **Senior Projects**              | *Quantized Facial Identification on Edge Devices: Bias and Performance Trade-offs* **\*** | [Repo TBD](#)     |
+| **Remote Sensing**               | TBD **\***                                                              | [Repo TBD](#)     |
+| **Experimentation With PyTorch** | TBD **\***                                                              | [Repo TBD](#)     |
+| **Generative Machine Learning**  | TBD **\***                                                              | [Repo TBD](#)     |
+| **Natural Language Processing**  | *Emotion Classification with Transformers: Multi-Label NLP*            | [Repo](https://github.com/toribiodiego/ECE-467-Natural-Language-Processing/tree/main/Final_Project)     |
+| **Reinforcement Learning**       | *PPO Checkers via Self-Play*                                             | [Repo](https://github.com/toribiodiego/ECE-471-Reinforcement-Learning/tree/main/Final_Project)     |
+| **Speech and Audio Processing**  | *Machine Unlearning on Audio Classification*                             | [Repo TBD](#)     |
 
 
-### Past
-- **Natural Language Processing**: *Emotion Classification with Transformers: Multi-Label NLP*
+<br>
+
+> *Projects marked with an asterisk (*) are ongoing, highlighting current efforts to expand and refine these endeavors.
