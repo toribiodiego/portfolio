@@ -6,7 +6,7 @@ The table below highlights a range of projects that were developed either as fin
 
 | Course                           | Project Title                                                            | Repo Link         |
 |----------------------------------|--------------------------------------------------------------------------|-------------------|
-| **Cloud Computing**              | *Scalable Reinforcement Learning: Distributed Training & Cloud Deployment* **\*** | [Repo TBD](#)     |
+| **Cloud Computing**              | *Scalable Reinforcement Learning: Distributed Training & Cloud Deployment* **\*** | [Repo](https://github.com/toribiodiego/ECE-465-Cloud-Computing/tree/main/Final_Project)     |
 | **VIP BioEngineering**           | *Multimodal Alzheimer's Disease Classification from Speech and Text* **\***      | [Repo TBD](#)     |
 | **Senior Projects**              | *Quantized Facial Identification on Edge Devices: Bias and Performance Trade-offs* **\*** | [Repo TBD](#)     |
 | **Remote Sensing**               | tbd **\***                                                              | [Repo TBD](#)     |
