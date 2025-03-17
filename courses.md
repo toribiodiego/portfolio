@@ -14,8 +14,8 @@ Below is an overview of graduate-level courses I've completed at The Cooper Unio
 | IS: Reinforcement Learning                | Chris Curro    | Fall 2024    | [ECE-471-IS](https://github.com/toribiodiego/ECE-471-Reinforcement-Learning) |
 | Remote Sensing                            | Krishna Karra  | Spring 2025  | [ECE-471-A](https://github.com/toribiodiego/ECE-471-A-Remote-Sensing) |
 | Generative Machine Learning               | Sam Keene      | Spring 2025  | [ECE-471-B](https://github.com/toribiodiego/ECE-471-Generative-Machine-Learning) |
-| IS: Cloud Computing **\***                | Rob Morano     | Spring 2025  | [ECE-465-IS](#) |
-| IS: Experimentation with PyTorch **\***   | Carl Sable     | Spring 2025  | [ECE-491-2-IS](#) |
+| IS: Cloud Computing **\***                | Rob Morano     | Spring 2025  | [ECE-465-IS](https://github.com/toribiodiego/ECE-465-Cloud-Computing) |
+| IS: Experimentation with PyTorch **\***   | Carl Sable     | Spring 2025  | [ECE-491-2-IS](https://github.com/toribiodiego/ECE-491-2-Experimentation-with-PyTorch) |
 
 <br>
 
