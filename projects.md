@@ -6,9 +6,9 @@ Below are original projects developed through graduate coursework, driven by per
 
 | Course                       | Project Title                                                                  | Repo Link         |
 |------------------------------|--------------------------------------------------------------------------------|-------------------|
-| Cloud Computing              | Distributed RL with Ray: PPO Training on Cloud* **\***                         | [Repo](https://github.com/toribiodiego/ECE-465-Cloud-Computing/tree/main/Final_Project)     |
+| Cloud Computing              | Distributed RL with Ray: PPO Training on Cloud **\***                         | [Repo](https://github.com/toribiodiego/ECE-465-Cloud-Computing/tree/main/Final_Project)     |
 | VIP BioEngineering           | Multimodal Alzheimer's Disease Classification (Speech & Text)  **\***          | [Repo TBD](#)     |
-| Senior Projects              | Quantized Face Recognition on Edge Devices: Explainability and Bias  **\***    | [Repo](https://github.com/toribiodiego/ECE-365-Senior-Projects)     |
+| Senior Projects              | Quantized Face Recognition on Edge Devices: Explainability and Bias **\***    | [Repo](https://github.com/toribiodiego/ECE-365-Senior-Projects)     |
 | Remote Sensing               | *tbd*                                                                          | [Repo TBD](#)     |
 | Experimentation With PyTorch | Normalization-Free Model Compression: Pruning & Quantizing Dynamic Tanh **\*** | [Repo](https://github.com/toribiodiego/ECE-491-2-Experimentation-with-PyTorch/tree/main/Final_Project)     |
 | Generative Machine Learning  | *tbd*                                                                          | [Repo TBD](#)     |
