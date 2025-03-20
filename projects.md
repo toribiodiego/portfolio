@@ -1,7 +1,7 @@
 
 ## Projects
 
-Below are selected projects developed as part of graduate-level courses, highlighting original ideas and hands-on experimentation. Rather than following standardized assignments, each project emerged from personal curiosity, exploration, and a desire to deepen technical knowledge. Together, these examples reflect my ability to independently formulate ideas, investigate challenging problems, and build practical solutions.
+Below are original projects developed through graduate coursework, driven by personal curiosity and a desire to deepen my technical knowledge. Each project highlights independent exploration and experimentation in addressing challenging problems.xploration. These projects highlight my ability to experiment, tackle challenging problems, and deliver practical solutions.
 <br>
 
 | Course                           | Project Title                                                            | Repo Link         |
