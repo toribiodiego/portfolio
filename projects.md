@@ -1,7 +1,7 @@
 
 ## Projects
 
-The table below highlights a range of projects that were developed either as final course projects or through independent exploration. Each project is an original idea that represents the culmination of coursework and hands-on experimentation.
+Below are selected projects developed as part of graduate-level courses, highlighting original ideas and hands-on experimentation. Rather than following standardized assignments, each project emerged from personal curiosity, exploration, and a desire to deepen technical knowledge. Together, these examples reflect my ability to independently formulate ideas, investigate challenging problems, and build practical solutions.
 <br>
 
 | Course                           | Project Title                                                            | Repo Link         |
