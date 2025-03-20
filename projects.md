@@ -1,7 +1,7 @@
 
 ## Projects
 
-Below are original projects developed through graduate coursework, driven by personal curiosity and a desire to deepen my technical knowledge. Each project highlights independent exploration and experimentation in addressing challenging problems.xploration. These projects highlight my ability to experiment, tackle challenging problems, and deliver practical solutions.
+Below are original projects developed through graduate coursework, driven by personal curiosity and a desire to deepen my technical knowledge. Each project highlights independent exploration and experimentation in addressing challenging problems.
 <br>
 
 | Course                           | Project Title                                                            | Repo Link         |
