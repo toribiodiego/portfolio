@@ -9,7 +9,7 @@ Below is an overview of graduate-level courses I've completed at The Cooper Unio
 | Deep Learning                             | Chris Curro    | Fall 2023    | [ECE-472](https://github.com/toribiodiego/ECE-472-1-DeepLearning) |
 | Databases                                 | David Katz     | Spring 2024  | [ECE-465](https://github.com/toribiodiego/ECE-464-Databases) |
 | Frequentist Machine Learning              | Sam Keene      | Fall 2024    | [ECE-475](https://github.com/toribiodiego/ECE-475-Frequentist-Machine-Learning) |
-| Speech and Audio Processing               | Joseph Colonel | Fall 2024    | [ECE-412](#) |
+| Speech and Audio Processing               | Joseph Colonel | Fall 2024    | [ECE-412](https://github.com/toribiodiego/ECE-412-1-Speech-and-Audio-Processing) |
 | Natural Language Processing               | Carl Sable     | Fall 2024    | [ECE-467](https://github.com/toribiodiego/ECE-467-Natural-Language-Processing) |
 | IS: Reinforcement Learning                | Chris Curro    | Fall 2024    | [ECE-471-IS](https://github.com/toribiodiego/ECE-471-Reinforcement-Learning) |
 | Remote Sensing                            | Krishna Karra  | Spring 2025  | [ECE-471-A](https://github.com/toribiodiego/ECE-471-A-Remote-Sensing) |
