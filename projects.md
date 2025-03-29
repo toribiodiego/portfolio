@@ -14,7 +14,7 @@ Below are original projects developed through graduate coursework, driven by per
 | Generative Machine Learning  | *tbd*                                                                          | [Repo TBD](#)     |
 | Natural Language Processing  | Multi-Label Emotion Classification: Comparing Transformer Models               | [Repo](https://github.com/toribiodiego/ECE-467-Natural-Language-Processing/tree/main/Final_Project)     |
 | Reinforcement Learning       | PPO Self-Play for Training Checkers Agents                                     | [Repo](https://github.com/toribiodiego/ECE-471-Reinforcement-Learning/tree/main/Final_Project)     |
-| Speech and Audio Processing  | Machine Unlearning on Audio Classification                                     | [Repo TBD](#)     |
+| Speech and Audio Processing  | Machine Unlearning on Audio Classification                                     | [Repo TBD](https://github.com/toribiodiego/ECE-412-1-Speech-and-Audio-Processing/tree/main/Final_Project)     |
 
 
 <br>
