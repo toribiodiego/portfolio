@@ -8,10 +8,10 @@ This repository contains two companion documents. `courses.md` catalogs the unde
 
 ### Repository Structure
 
-- [Coursework](courses.md)  
+- **Coursework** [[>]](courses.md)  
   - A list of graduate‑level courses I’ve taken, each linking to the repository of assignments and code.
 
-- [Projects](projects.md)  
+- **Projects** [[>]](projects.md)  
   - Highlights of independent and course‑based projects.
 
 <br>
